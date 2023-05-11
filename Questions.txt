@@ -1,13 +1,12 @@
-*** QUESTIONS ***
-
+Joe Centeno May 11
 1. What does it mean to `commit` in a git repository?
-< Your answer here >
+To commit to a git repository means to stage all files that are stored locally in your local git repository. You first have to add/stage all the files you want to commit to your local git repository. 
 
 2. When should you create a new branch?  Use examples in your answer!
-< Your answer here >
+When using git you should create a new branch when working on a new feature or addition to your project. This allows the code to be separate from the main branch. The feature branch can then be merged back into the main branch once the feature code is finished. 
 
 3. In your own words, what is a database?  Use examples to explain.
-< Your answer here >
+A database is a collection of data represented by strings, ints, booleans, and other datatypes depending on the database application being used. A database allows a developer to store data in tables using Querry languages like SQL to query these tables. 
 
 4. In a database, how do we create relationships between tables?
-< Your answer here >
+To create a relationship between tables in a database you need to use a JOIN command. A Join command will allow you to connect tables creating relationships between data using primary and foreign keys. 
