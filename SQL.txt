@@ -1,3 +1,4 @@
+Joe Centeno
 -- *** QUERY ***
 -- 1. Return only the Artist and Song Names.
 SELECT artistname, songname FROM songs;
