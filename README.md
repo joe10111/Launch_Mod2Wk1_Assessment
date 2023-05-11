@@ -1,4 +1,4 @@
-# Mod2 Week1 Assessment - <YOUR NAME HERE>
+# Mod2 Week1 Assessment - Joe Centeno
 
 ## Setup
 1. Fork this repository.
